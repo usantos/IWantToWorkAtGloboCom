@@ -1,9 +1,99 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Entretenimento
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Dados Pessoais
+
+Nome: Ubiracy Miranda dos Santos
+Data de Nascimento: 08/10/1987
+Nacionalidade: Brasileiro
+Email: ubiracy.web@gmail.com
+Contato: (71)9603-9103 | (71)9228-9787
+Facebook: facebook.com/ubiracy.santos
+Messenger: ubiracy.suporte@gmail.com
+
+Formação
+
+Superior em curso - Sistemas de Informação (8º Semestre).
+
+Experiências Profissionais
+
+Comtecno Tecnologia 
+Analista de Sistemas Pleno. (Analista .Net/ PHP | Mobile - Android )
+(02/08/2010 – Atualmente).
+
+Lex Consult 
+Programador Jr. (Programador .Net/ PHP | Designer de Interfaces )
+(13/10/2009 – 15/06/2010).
+
+CPM Braxis
+Programador Jr. (Programador .Net | Web Designer)
+(17/11/2008 – 13/10/2009).
+
+Setor Web
+Estagiário - Web Designer (25/02/2008 – 20/09/2008).
+
+MF Sistemas de Segurança
+Estagiário - Suporte (18/05/2007 – 21/02/2008).
+
+Perfil Técnico
+
+1.  Programação Orientada à Objetos;
+2.	.NET Framework (C#/VB.NET);
+3.	Desenvolvimento com Google Android e HTML5
+4.	Modelagem de Dados;
+5.	Desenvolvimento com PHP Avançado; (CodeIgniter)
+6.	Linguagem SQL;
+7.	Linguagem XML;
+8.	Internet/Multimídia - Adobe Dreamweaver, Adobe Flash;
+9.	HTML (Avançado) e Css - Folhas de Estilos (Avançado);
+10.	Edição de imagens: Adobe Photoshop, Adobe Fireworks;
+11.	Vetoriais: Adobe Illustrator, Corel Draw;
+12.	Desenvolvimento Web com Framework Jquery, Jquery Mobile, ExtJs;
+
+
+Capacitação
+
+CAELUM - FJ-57 | Desenvolvimento móvel com Google Android
+Curso de 32h que aborda o desenvolvimento com Android SDK 2.x desde conceitos básicos até recursos avançados.
+
+A.I.S Informática
+Computação Gráfica [Fireworks, Photoshop, Illustrator, InDesign, Flash,
+Dreamweaver](3 anos).
+
+ProfessorDelphi
+Programação PHP (30H).
+
+Microlins
+Manutenção de Micros e Redes (6 meses)
+Informática Básica (6 meses).
+
+Cursos / Palestras
+
+Palestrei sobre Mercado e Desenvolvimento Móvel com Android (Faculdade Hélio Rocha 1:30 H)
+Desenvolvimento de Sistemas em Java. (Faculdade Hélio Rocha – 20 H).
+Segurança de dados na Internet . (Faculdade Hélio Rocha - 4 H).
+O futuro das aplicações nos dispositivos móveis.(Hotel Fiesta -  Ramon Durães).
+Metodologias Ágeis, Frameworks PHP e Ruby on Rails(Ondina Apart Hotel - Linguágil).
+
+Objetivos
+
+Com espirito de grupo,fazendo sempre o algo mais buscando a excelência sempre com atitude inovadora 
+farei com que meu trabalho ajude a Globo.com a continuar sendo líder no segmento de desenvolvimento ágil para a Web.
+
+
+Sobre Mim
+
+Sempre focado e atenado em tecnologias, geek e curioso. Poliglota na programação, o que menos importa é a sintaxe,
+pois o bom programador domina a lógica. Curto hackerismo como forma de proteção.
+Atualmente desenvolvedor Mobile em uma empresa em Salvador focada em mídia interativa.
+Estou construindo como trabalho de conclusão de curso da faculdade, 
+um dispositivo que utiliza a biometria de veias da palma da mão para que se use como forma de pagamento 
+nos meios de transportes.
+
+Amo minha profissão e creio que serei um grande colaborador na Globo.com!
+
